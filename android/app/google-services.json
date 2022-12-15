@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "880316057370",
+    "project_id": "slack-test-d83b8",
+    "storage_bucket": "slack-test-d83b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880316057370:android:cfb557c9b0960dde1d0ea3",
+        "android_client_info": {
+          "package_name": "com.sandra.slacks_test.slacks_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880316057370-o9oiv9pos4kopfsshumflgc3qggupi6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandra.slacks_test.slacks_test",
+            "certificate_hash": "c1a088b5a378219cb730979f1d020db7df1c4798"
+          }
+        },
+        {
+          "client_id": "880316057370-falup3uusi282ir02hh05tgljm4qngdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-a2mjZLX_bsliOh5mEc9UZlc_zN7bECw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880316057370-falup3uusi282ir02hh05tgljm4qngdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
